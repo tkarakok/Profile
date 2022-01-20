@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tunahan</h1>
 <h3 align="center">I'm game developer</h3>
 
-- 🔭 I’m currently working on **Egg In Life**
+- 🔭 I’m currently working on **Hyper-Casual Games**
 
 - 🌱 I’m currently learning **Unity and C#**
 
