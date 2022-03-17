@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unity and C#**
 
-- 📄 Know about my experiences [https://bit.ly/355ttnD](https://bit.ly/355ttnD)
+- 📄 Know about my experiences [shorturl.at/xADU7](https://bit.ly/355ttnD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
