@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Tunahan</h1>
-<h3 align="center">I'm game developer</h3>
+<h3 align="center">I'm backend / game developer</h3>
 
-- 🔭 I’m currently working on **C# and Games**
+- 🔭 I’m currently working on ** .Net **
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **Backend and Frontend**
 
-- 📄 Know about my experiences [Tunahan's CV](https://drive.google.com/file/d/1dlSbBbbR2fpHmuUtTSZFDKNWBYZLD774/view?usp=sharing)
+- 📄 Know about my experiences [Tunahan's CV]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karakok78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karakok78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tunahan-karak%c3%b6k-465568150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tunahan-karak%c3%b6k-465568150/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/tunahan-karak%c3%b6k-465568150/](https://www.linkedin.com/in/tkarakok/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tunahan-karak%c3%b6k-465568150/" height="30" width="40" /></a>
 <a href="https://instagram.com/tkarakokk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tkarakokk" height="30" width="40" /></a>
 </p>
 
