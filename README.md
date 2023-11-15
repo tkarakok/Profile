@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tunahan</h1>
 <h3 align="center">I'm backend / game developer</h3>
 
-- 🔭 I’m currently working on ** .Net **
+- 🔭 I’m currently working on **.Net**
 
 - 🌱 I’m currently learning **Backend and Frontend**
 
